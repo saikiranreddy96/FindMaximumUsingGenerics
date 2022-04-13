@@ -1,0 +1,8 @@
+C:\Users\sai kiran\source\repos\FindMaxUsingGenerics\FindMaxUsingGenerics\bin\Debug\FindMaxUsingGenerics.exe.config
+C:\Users\sai kiran\source\repos\FindMaxUsingGenerics\FindMaxUsingGenerics\bin\Debug\FindMaxUsingGenerics.exe
+C:\Users\sai kiran\source\repos\FindMaxUsingGenerics\FindMaxUsingGenerics\bin\Debug\FindMaxUsingGenerics.pdb
+C:\Users\sai kiran\source\repos\FindMaxUsingGenerics\FindMaxUsingGenerics\obj\Debug\FindMaxUsingGenerics.csproj.AssemblyReference.cache
+C:\Users\sai kiran\source\repos\FindMaxUsingGenerics\FindMaxUsingGenerics\obj\Debug\FindMaxUsingGenerics.csproj.SuggestedBindingRedirects.cache
+C:\Users\sai kiran\source\repos\FindMaxUsingGenerics\FindMaxUsingGenerics\obj\Debug\FindMaxUsingGenerics.csproj.CoreCompileInputs.cache
+C:\Users\sai kiran\source\repos\FindMaxUsingGenerics\FindMaxUsingGenerics\obj\Debug\FindMaxUsingGenerics.exe
+C:\Users\sai kiran\source\repos\FindMaxUsingGenerics\FindMaxUsingGenerics\obj\Debug\FindMaxUsingGenerics.pdb
