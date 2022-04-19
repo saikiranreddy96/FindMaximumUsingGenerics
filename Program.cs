@@ -10,9 +10,15 @@ namespace FindMaxUsingGenerics
     {
         static void Main(string[] args)
         {
+            //Maximum integer
             FindMaximum findmaximum = new FindMaximum();
-            int intmax = findmaximum.GetMaxOfThree(96,45,76);
+            int intmax = findmaximum.MaximumInteger(45,58,26);
             Console.WriteLine("Maximum of three integers is : " + intmax);
+
+            //Maximum float
+            FindMaximum findMaximum = new FindMaximum();
+            float floatmax = findMaximum.MaximumFloat(12.3f, 45.3f, 36.1f);
+            Console.WriteLine("Maximum of three floats is : " + floatmax);
             Console.ReadLine();
         }
     }
