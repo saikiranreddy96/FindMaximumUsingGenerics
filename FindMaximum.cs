@@ -8,7 +8,7 @@ namespace FindMaxUsingGenerics
 {
     internal class FindMaximum
     {
-        
+        //Maximum integer(UC1)
         public int GetMaxOfThree(int num1, int num2, int num3)
         {
             if (num1.CompareTo(num2) >= 0 && num1.CompareTo(num3) >= 0)
