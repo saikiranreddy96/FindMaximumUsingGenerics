@@ -8,7 +8,7 @@ namespace FindMaxUsingGenerics
 {
     internal class FindMaximum
     {
-        //Maximum integer
+        //Maximum integer(UC1)
         public int MaximumInteger(int num1, int num2, int num3)
         {
             if (num1.CompareTo(num2) >= 0 && num1.CompareTo(num3) >= 0)
@@ -27,7 +27,7 @@ namespace FindMaxUsingGenerics
         }
 
 
-        //Maximum float
+        //Maximum float(UC2)
        public float MaximumFloat(float num1, float num2, float num3)
         {
             if (num1.CompareTo(num2) >= 0 && num1.CompareTo(num3) >= 0)
@@ -46,7 +46,7 @@ namespace FindMaxUsingGenerics
         }
 
 
-        //Maximum string
+        //Maximum string(UC3)
         public string MaximumString(string str1, string str2, string str3)
         {
             if (str1.CompareTo(str2) >= 0 && str1.CompareTo(str3) >= 0)
